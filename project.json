@@ -1,0 +1,25 @@
+{
+ "name": "twitch-desktop-notifications",
+ "description": "Enter your project description",
+ "author": {
+  "name": "Berke Kalkan",
+  "email": "berkekalkantr@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "twitch-desktop-notifications",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "tags": "",
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": "",
+ "LdFlags": "",
+ "GoPath": "",
+ "UseFirebug": false
+}
